@@ -1,6 +1,6 @@
 # 📷🌎 360 Image Stitcher - Client Project
 
-This is a project I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors. You can view the project at https://assets360.vercel.app/.
+This is a project I have completed for a client. The 360 Image Stitcher is a powerful app that allows users to create immersive 360-degree images using their mobile device's camera and motion sensors. You can view a demo to the project [here](https://assets360.vercel.app/).
 
 ## 📸 Capturing Images
 
